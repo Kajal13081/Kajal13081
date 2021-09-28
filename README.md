@@ -1,9 +1,7 @@
 # Profile_stats
 See my profile
 
-![Kajal Kumari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kajal13081&show_icons=true)
-
-![Kajal Kumari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kajal13081&count_private=true)
+<!-- ![Kajal Kumari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kajal13081&show_icons=true) -->
 
 ![Kajal Kumari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kajal13081&show_icons=true&theme=radical)
 

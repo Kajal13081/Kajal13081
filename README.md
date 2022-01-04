@@ -11,4 +11,3 @@ See my profile
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kajal13081&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
- ![Skyline](https://github.com/ShreyaPrasad1209/Kajal13081/blob/master/github-metrics.svg)

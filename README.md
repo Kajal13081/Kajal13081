@@ -1,5 +1,6 @@
-<h1 align="center">Hey, I'm Kajal Kumari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">I am Only In It For the Bugs!</h2>
+
+<h1 align="center">Hello, I'm Kajal Kumari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">I am Only In It For the Bugs !</h2>
 
 ![Kajal Kumari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kajal13081&show_icons=true&theme=radical)
 

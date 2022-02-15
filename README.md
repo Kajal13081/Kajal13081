@@ -7,7 +7,7 @@
    <br />
    <br /> -->
    
-<h2 align="left">My GitHub Experience !! 🌐 </h2>
+<h2 align="left">My GitHub Experience !! 🌐👩🏽‍💻 </h2>
 <br/>
   <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kajal13081&show_icons=true&theme=radical&hide_border=false" alt="Kajal Github Stats">
@@ -23,7 +23,7 @@
    <br />
     -->
     
-<h2 align="left">My Tech Stack !! 🧑🏽‍💻 </h2>
+<h2 align="left">My Tech Stack !! 👧🏽💻 </h2>
 <br/>
 <p align="center">
   <a href="#">
@@ -33,7 +33,7 @@
 
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal13081&show_icons=true&theme=radical&hide_border=true)](https://github.com/Kajal13081/github-readme-stats) -->
    
-   <h2 align="left">My contribution Streak !! :fire:</h2> 
+   <h2 align="left">My contribution Streak !! 💻:fire:</h2> 
    <br/>
 <p align="center">
   <a href="#">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-   <h2 align="left">Contribution Graph !! 🎉 </h2>
+   <h2 align="left">My Contribution Graph !! 📈🎉 </h2>
    <br/>
 <p align="center">
   <a href="#">

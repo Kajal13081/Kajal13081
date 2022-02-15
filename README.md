@@ -23,7 +23,7 @@
    <br />
     -->
     
-<h2 align="left">My Tech Stack !! 👧🏽💻 </h2>
+<!-- <h2 align="left">My Tech Stack !! 👧🏽💻 </h2> -->
 <br/>
 <p align="center">
   <a href="#">
